@@ -1,0 +1,3 @@
+x=input(int(Enter a number))
+y=input(int(Enter a number))
+print("x+y=",x+y)
